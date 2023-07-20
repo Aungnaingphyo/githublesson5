@@ -1,0 +1,1 @@
+echo "Hello I am bugfix file2" > file2.txt
